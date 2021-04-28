@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>infortic.chat</groupId>
-	<artifactId>chat</artifactId>
+	<artifactId>chat-commad</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>chat</name>
+	<name>chat-commad</name>
 	<description>chat com cqrs orientado a eventos</description>
 	<properties>
 		<java.version>16</java.version>
