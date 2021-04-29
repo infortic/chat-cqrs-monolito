@@ -1,0 +1,13 @@
+package com.artifact.coreapi.events;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+@AllArgsConstructor
+public class EntrarSalaEvent {
+	private String salaId;
+	private String participante;
+}
